@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\625e6c7bf3be24e75f3733791b0a0860\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\59678f9671738c1a86ae6223b8147511\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\b3a8ee3010dd8ada7ab83edc94e4f8b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\9c8cc5fb9be6376fc7a5fcdb0daa3595\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\f58fb147bc5690e3bfa93936742a5abe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\30f4e33878a6c18bab811075c507dcca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0f4ad2c942d02e4f599b43b508c3a478\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\55e9cd37d030aab096888fa536942334\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\0b3431d9a13851180d9c015c3cea688e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\9874177132a1f250e4d0db1ce951db2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\9795e11ed8e7f6a4bf7c0cbf0a75ead8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c2e3fab1570bb539aeebbb4d4c248356\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\f428aae173b07bfea1f827cc45d563a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\33b7ff5c5f32bc396d899eea65dc2d75\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\33f7c812458b4b31fcb7c67dadb91962\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:5:5-22:19
+	android:supportsRtl
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.myhexaville.login.MainActivity
+ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:11:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:14:13-49
+	android:label
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\625e6c7bf3be24e75f3733791b0a0860\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\625e6c7bf3be24e75f3733791b0a0860\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\59678f9671738c1a86ae6223b8147511\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\59678f9671738c1a86ae6223b8147511\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\b3a8ee3010dd8ada7ab83edc94e4f8b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\b3a8ee3010dd8ada7ab83edc94e4f8b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\9c8cc5fb9be6376fc7a5fcdb0daa3595\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\9c8cc5fb9be6376fc7a5fcdb0daa3595\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\f58fb147bc5690e3bfa93936742a5abe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\f58fb147bc5690e3bfa93936742a5abe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\30f4e33878a6c18bab811075c507dcca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\30f4e33878a6c18bab811075c507dcca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0f4ad2c942d02e4f599b43b508c3a478\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0f4ad2c942d02e4f599b43b508c3a478\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\55e9cd37d030aab096888fa536942334\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\55e9cd37d030aab096888fa536942334\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\0b3431d9a13851180d9c015c3cea688e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\0b3431d9a13851180d9c015c3cea688e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\9874177132a1f250e4d0db1ce951db2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\9874177132a1f250e4d0db1ce951db2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\9795e11ed8e7f6a4bf7c0cbf0a75ead8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\9795e11ed8e7f6a4bf7c0cbf0a75ead8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c2e3fab1570bb539aeebbb4d4c248356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c2e3fab1570bb539aeebbb4d4c248356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\f428aae173b07bfea1f827cc45d563a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\f428aae173b07bfea1f827cc45d563a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\33b7ff5c5f32bc396d899eea65dc2d75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\33b7ff5c5f32bc396d899eea65dc2d75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\33f7c812458b4b31fcb7c67dadb91962\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\TVD\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\33f7c812458b4b31fcb7c67dadb91962\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TVD\Desktop\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
